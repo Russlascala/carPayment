@@ -1,2 +1,2 @@
 # carPayment
-A program to calculate monthly payments on a car loan. 
+A program written in python that calculates monthly payments and balance on a car loan. 
